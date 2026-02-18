@@ -406,6 +406,11 @@ nbformat>=5.9.0
 - 🗂️ [Dataset: PneumoniaMNIST (MedMNIST v2)](https://drive.google.com/file/d/1OzLVX3ycpuuvAihNaI1QjlMyTUjPpD_o/view?usp=sharing)  
   The dataset used for training, testing, and evaluation.
 
+
+  💡 **Related Work:**  
+For reference, you can also check my other project [TB Detection with MAMBA-ViT](https://github.com/Maisamilens/tb-detection-mamba-vit), which builds on similar medical imaging tasks but includes both classification and segmentation using a hybrid MAMBA-ViT architecture.
+
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
