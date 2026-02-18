@@ -398,6 +398,14 @@ nbformat>=5.9.0
 
 ---
 
+## 📂 Additional Resources
+
+- 📄 [Complete Project Package (Code, Reports & Results)](https://drive.google.com/file/d/1Sb8rjw8dQKuBgrdMXZb92-pJfLM12OkG/view?usp=sharing)  
+  Contains all code, analysis reports, and results for Tasks 1, 2, and 3 of the challenge.
+
+- 🗂️ [Dataset: PneumoniaMNIST (MedMNIST v2)](https://drive.google.com/file/d/1OzLVX3ycpuuvAihNaI1QjlMyTUjPpD_o/view?usp=sharing)  
+  The dataset used for training, testing, and evaluation.
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
